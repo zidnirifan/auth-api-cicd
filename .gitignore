@@ -4,3 +4,4 @@ package-lock.json
 config/database/test.json
 coverage
 .DS_Store
+auth-api-app-server.pem
